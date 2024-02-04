@@ -1,0 +1,42 @@
+﻿  AnalogCircuit.cpp
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(56,36): warning C4305: 'argument': truncation from 'double' to 'float'
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(57,35): warning C4305: 'argument': truncation from 'double' to 'float'
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(67,28): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(67,13): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(68,26): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(68,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(75,13): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(76,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(76,13): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(82,70): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(82,39): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(88,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(89,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(96,51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(96,37): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(100,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(102,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(103,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(119,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(119,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(128,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(128,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(129,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(129,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(147,68): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(148,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(162,70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(163,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuit.cpp(207,53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  AnalogCircuitMain.cpp
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\AnalogCircuitMain.cpp(32,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Capacitor.cpp
+  Component.h
+  Inductor.cpp
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\Inductor.cpp(30,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\Inductor.cpp(30,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Resistor.cpp
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\Resistor.cpp(29,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\ass1-ISE\Resistor.cpp(29,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Generating Code...
+  ass1-ISE.vcxproj -> Z:\Desktop\Seneca\5.fall2023\SED500IntroductionToSoftwareEngineering\Assignment1\ass1-ISE\x64\Debug\ass1-ISE.exe
